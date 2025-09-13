@@ -48,8 +48,8 @@ The application consists of the following microservices:
 - **Framework**: Spring Boot
 - **Language**: Java
 - **Build Tool**: Maven
-- **Database**: (Your database choice - e.g., MySQL, PostgreSQL)
-- **API Documentation**: Swagger/OpenAPI
+- **Database**: MySql
+- **API Documentation**: Postman
 - **Version Control**: Git
 
 ## Getting Started
